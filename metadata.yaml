@@ -1,0 +1,5 @@
+name: hello-world
+summary: a "Hello, World" charm.
+description: Hello, World.
+series:
+    - bionic
